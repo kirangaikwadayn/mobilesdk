@@ -1,0 +1,121 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light" />
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="edtxt_circularborder_style">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textColorHint">@color/colorPrimary</item>
+        <item name="android:paddingLeft">@dimen/layout_margin_small</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:gravity">left</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:imeOptions">actionNext</item>
+
+    </style>
+
+    <style name="edtxt_style">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textColorHint">@color/colorPrimary</item>
+        <item name="android:paddingLeft">@dimen/layout_margin_small</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:gravity">left</item>
+        <item name="android:imeOptions">actionNext</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="txt_heading_style">
+        <item name="android:padding">5dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:layout_marginLeft">@dimen/layout_margin_small</item>
+        <item name="android:layout_marginRight">@dimen/layout_margin_small</item>
+        <item name="android:textSize">@dimen/text_size_heading</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:gravity">left</item>
+
+    </style>
+
+    <style name="txt_drawer_menu_heading_style">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:layout_marginLeft">@dimen/layout_margin_small</item>
+        <item name="android:layout_marginRight">@dimen/layout_margin_small</item>
+        <item name="android:textSize">@dimen/text_size_heading</item>
+        <item name="android:gravity">center_vertical</item>
+
+    </style>
+
+    <style name="txt_normal_style">
+        <item name="android:padding">5dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:layout_marginLeft">@dimen/layout_margin_small</item>
+        <item name="android:layout_marginRight">@dimen/layout_margin_small</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:gravity">left</item>
+    </style>
+
+    <style name="txt_subtitle_style">
+        <item name="android:padding">5dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:layout_marginLeft">@dimen/layout_margin_small</item>
+        <item name="android:layout_marginRight">@dimen/layout_margin_small</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:gravity">left</item>
+    </style>
+
+    <style name="txt_title_center_style">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:layout_marginLeft">@dimen/layout_margin_small</item>
+        <item name="android:layout_marginRight">@dimen/layout_margin_small</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="btn_circularfilled_style">
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/ed_background</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:layout_margin">@dimen/layout_margin_small</item>
+    </style>
+
+    <style name="btn_circular_unfilled_small_style">
+        <item name="android:padding">10dp</item>
+        <item name="android:textStyle">italic|bold</item>
+        <item name="android:background">@drawable/ed_background</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:layout_marginLeft">@dimen/layout_margin_extrasmall</item>
+        <item name="android:layout_marginRight">@dimen/layout_margin_extrasmall</item>
+        <item name="android:textSize">@dimen/text_size_extrasmall</item>
+    </style>
+
+    <style name="btn_circular_filled_small_style">
+        <item name="android:padding">10dp</item>
+        <item name="android:textStyle">italic|bold</item>
+        <item name="android:background">@drawable/ed_background</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_marginLeft">@dimen/layout_margin_extrasmall</item>
+        <item name="android:layout_marginRight">@dimen/layout_margin_extrasmall</item>
+        <item name="android:textSize">@dimen/text_size_extrasmall</item>
+    </style>
+
+</resources>

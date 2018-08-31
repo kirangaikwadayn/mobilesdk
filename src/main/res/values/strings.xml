@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mobileSDK</string>
+    <string name="title_activity_payment_type_selection">PaymentTypeSelectionActivity</string>
+    <string name="title_activity_general">GeneralActivity</string>
+</resources>

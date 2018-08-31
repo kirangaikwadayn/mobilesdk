@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#fff</color>
+
+    <color name="orange">#ffa500</color>
+    <color name="light_green">#8FB53E</color>
+    <color name="gradient_green">#4CAF50</color>
+    <color name="background_green">#DBF0B8</color>
+
+    <color name="transperent_black">#ff000000</color>
+    <color name="transperent_white">#00000000</color>
+    <color name="app_black">#000000</color>
+    <color name="black">#000000</color>
+    <color name="slightwhite">#ECEFF1</color>
+    <color name="light_green_sixty">#c9fdc9</color>
+
+
+    <color name="sixty_white">#99FFFFFF</color>
+    <color name="seventy_white">#B3FFFFFF</color>
+    <color name="eighty_white">#CCFFFFFF</color>
+    <color name="light_grey">#f1f3f4</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="darkgrey">#A9A9A9</color>
+    <color name="grey">#808080</color>
+    <color name="sixty_grey">#99808080</color>
+    <color name="seventy_grey">#B3808080</color>
+    <color name="fb_btn">#3b5996</color>
+    <color name="blue_dark">#004080</color>
+    <color name="blue">#003366</color>
+
+    <color name="lightgreen">#e4fdd7</color>
+    <color name="lightblue">#2693ff</color>
+</resources>
